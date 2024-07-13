@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4801a888-efaf-4b73-a30a-dc92c93406d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LearningPython_JoeMarini.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/.github/CODEOWNERS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/.github/workflows/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/challenge_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/classes_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/classes_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/conditionals_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/conditionals_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/exceptions_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/exceptions_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/functions_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/functions_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/helloworld_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/helloworld_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/loops_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/loops_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/modules_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/modules_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/variables_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch2 - Basics/variables_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch3 - Files/challenge_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch3 - Files/files_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch3 - Files/files_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch3 - Files/ospathutils_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch3 - Files/ospathutils_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch3 - Files/shell_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch3 - Files/shell_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch4 - Dates and Times/calendars_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch4 - Dates and Times/calendars_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch4 - Dates and Times/challenge_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch4 - Dates and Times/challenge_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch4 - Dates and Times/dates_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch4 - Dates and Times/dates_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch4 - Dates and Times/formatting_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch4 - Dates and Times/formatting_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch4 - Dates and Times/timedeltas_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch4 - Dates and Times/timedeltas_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch5 - Internet Data/htmlparsing_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch5 - Internet Data/htmlparsing_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch5 - Internet Data/inetdata_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch5 - Internet Data/inetdata_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch5 - Internet Data/jsondata_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch5 - Internet Data/jsondata_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch5 - Internet Data/samplehtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch5 - Internet Data/samplexml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch5 - Internet Data/xmlparsing_finished.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/Ch5 - Internet Data/xmlparsing_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-python-2896241-main/learning-python-2896241-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2jCqv6QFlWgt2fwOxDArFH3tWTT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="LearningPython_JoeMarini" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4801a888-efaf-4b73-a30a-dc92c93406d1" name="Changes" comment="" />
+      <created>1720901633550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720901633550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
